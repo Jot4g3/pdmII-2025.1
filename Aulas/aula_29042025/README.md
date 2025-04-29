@@ -1,2 +1,1 @@
-# Aprendendo
-## a transformar objetos em JSON
+# Aprendendo a transformar objetos em JSON
